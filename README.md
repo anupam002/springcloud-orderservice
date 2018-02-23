@@ -7,3 +7,7 @@ Spring Cloud application app which will register with dicovery server.
 Detailed Information and Reference : http://projects.spring.io/spring-cloud/
 
 In case of any query please write me at : om.anupam@gmail.com
+
+#NOTE :
+
+Please start multiple instances on different ports and verify result response will be received in Round Robbin Manner
